@@ -1,5 +1,5 @@
 # Go-mem0
-
+中文：https://github.com/yu-xin-c/Go-mem0/blob/main/README_zh.md
 A memory management plugin for AI systems, inspired by the mem0 framework. This project provides a lightweight, embeddable memory layer that can be used as a plugin for OpenClaw or other AI systems.
 
 ## Features
